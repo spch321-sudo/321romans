@@ -3,7 +3,7 @@
    策略：App 殼採 network-first（確保更新拿得到），失敗時回退快取；
          圖示等靜態檔採 cache-first。 */
 
-const VERSION = 'v3.4.0-c0b7dc24e332';
+const VERSION = 'v3.4.0-c0b7dc24e332-tri10171903';
 const CACHE = '321bible-' + VERSION;
 
 const SHELL = [
